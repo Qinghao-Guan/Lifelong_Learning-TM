@@ -1,7 +1,7 @@
 # Lifelong_Learning-TM
 This repo has the data, codes for the paper "Lifelong Learning Research in WOS and CNKI: A Comparative Topic Modeling Analysis".
 
-Guan, Q., Mu, W., & Liu, Z. (2026). Lifelong learning research in WOS and CNKI: A comparative topic modeling analysis. Soc. Netw. Anal. Min. *16*, Article 45. https://doi.org/10.1007/s13278-025-01562-4
+Guan, Q., Mu, W., & Liu, Z. (2026). Lifelong learning research in WOS and CNKI: A comparative topic modeling analysis. Social Network Analysis and Mining. *16*, Article 45. https://doi.org/10.1007/s13278-025-01562-4
 
 Understanding and practicing lifelong learning is at the heart of community and continuing education. In the era of digitalization and artificial intelligence, how to effectively cultivate skilled talents to support the sustainable development of individuals and society has become a central challenge for educational research and practice.
 
